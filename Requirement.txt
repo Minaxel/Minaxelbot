@@ -1,0 +1,5 @@
+txt
+
+discord.py
+google-genai
+google-api-python-client
